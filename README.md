@@ -1,5 +1,5 @@
 ### Hi, I am **Easton**.
-#### Passionate software developer, and community manager.<br>I have robust fundamentals in back-end development, notably, database management, server-side development, and API integration.<br>Also, paired with my proficiency in full-stack development, I have experience data science and analysis.
+#### Passionate software developer, and community manager.<br>I have robust fundamentals in back-end development, notably, database management, server-side development, and API integration.<br>Also, paired with my proficiency in full-stack development, I have experience in data science and analysis.
 #### Check out my tech stack
 
 <a href="https://github.com/anuraghazra/convoychat">
