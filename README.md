@@ -1,5 +1,5 @@
 ### Hi, I am **Easton**.
-#### Quick-learning and multicultural software developer, and community manager.<br>I have robust fundamentals in back-end development, notably, database management, server-side development, and API integration. 
+#### Passionate software developer, and community manager.<br>I have robust fundamentals in back-end development, notably, database management, server-side development, and API integration.<br>Also, paired with my proficiency in full-stack development, I also have experience data science and analysis.
 #### Check out my tech stack
 
 <a href="https://github.com/anuraghazra/convoychat">
