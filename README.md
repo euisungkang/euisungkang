@@ -1,5 +1,5 @@
 ### Hi, I am **Easton**.
-#### Passionate software developer, and community manager.<br>I have robust fundamentals in back-end development, notably, database management, server-side development, and API integration. However, my work experience and tech stack are very much full-stack, with personal projects to showcase my competence.
+#### Passionate software developer, and community manager.<br>I have robust fundamentals in back-end development, notably, Spring | Node server-side development, database design + migration, and API integration. However, my work experience and tech stack are also very much full-stack, with personal projects to showcase my competence.
 
 #### Feel free to check out my repositories
 
