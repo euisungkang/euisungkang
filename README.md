@@ -62,8 +62,8 @@
   
   <h4> AccessSIGCHI : Software Engineer Intern [2020] </h4>
   <div>
-    <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails">
     <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
+    <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails">
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   </div>
   
@@ -74,8 +74,8 @@
     <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
   </div>
   <div>
-    <img src="https://img.shields.io/badge/Blockchain-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge" alt="Blockchain">
     <img src="https://img.shields.io/badge/IPFS-17314a?style=for-the-badge&logo=IPFS&logoColor=white" alt="IPFS">
+    <img src="https://img.shields.io/badge/Blockchain-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge" alt="Blockchain">
   </div>
 </div>
 
