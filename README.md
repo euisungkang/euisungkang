@@ -102,11 +102,11 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euisungkang&theme=transparent&exclude_repo=Corro-Por-Voz-2018&show_icons=true&layout=compact&langs_count=8&size_weight=0.4&count_weight=0.6&card_width=320&include_all_commits=true" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=euisungkang&hide=issues,contribs&show=prs_merged,prs_merged_percentage&theme=transparent&show_icons=true&include_all_commits=true&rank_icon=percentile" />
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=euisungkang&theme=dark&background=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=euisungkang&theme=dark&background=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)]()
 </div>
 <br>
 <div align="center">
-  <h3>mouse user........? i hardly know her.</h3>
+  <h3>mouse user........? I hardly know her.</h3>
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim">
   <img src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white" alt="Alacritty">
   <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="Tmux">
