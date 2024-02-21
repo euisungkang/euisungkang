@@ -13,9 +13,9 @@
   <a href="https://discordapp.com/users/237018129664966656">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  
-  # 
 </div>
+
+------
 
 <div align="center">
   <h3> About Me </h3>
@@ -29,7 +29,9 @@
      
   However, my experience and tech stack is also very much full-stack,<br>with personal projects to showcase my competence.
 </div>
-<br>
+
+------
+
 <div align="center">
   <h3> Work Experience </h3>
   <a href="https://drive.google.com/file/d/1oe3dok8m8nM0lMAZyEFL5Q6OM6-NZdQU/view?usp=sharing">
@@ -69,7 +71,9 @@
     <img src="https://img.shields.io/badge/IPFS-17314a?style=for-the-badge&logo=IPFS&logoColor=white" alt="IPFS">
   </div>
 </div>
-<br>
+
+------
+
 <div align="center">
 <h3>Projects</h3>
   
@@ -83,7 +87,9 @@
 |   |   |   |   |
 
 </div>
-<br>
+
+------
+
 <div align="center">
   <h3>Stats (if you care)</h3>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euisungkang&theme=transparent&exclude_repo=Corro-Por-Voz-2018&show_icons=true&layout=compact&langs_count=8&size_weight=0.4&count_weight=0.6&card_width=320&include_all_commits=true" />
