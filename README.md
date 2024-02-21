@@ -100,7 +100,7 @@
 <div align="center">
   <h3>Stats (if you care)</h3>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euisungkang&theme=transparent&exclude_repo=Polyhack-2019,Corro-Por-Voz-2018&show_icons=true&layout=compact&langs_count=8&size_weight=0.6&count_weight=0.4&card_width=320&include_all_commits=true" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=euisungkang&hide=issues,contribs&show=prs_merged,prs_merged_percentage&theme=transparent&show_icons=true&include_all_commits=true&rank_icon=percentile" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=euisungkang&hide=issues,contribs&show=prs_merged&theme=transparent&show_icons=true&include_all_commits=true&rank_icon=percentile" />
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=euisungkang&theme=dark&background=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)]()
 </div>
