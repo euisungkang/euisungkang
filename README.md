@@ -113,4 +113,6 @@
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjhuNGhsZWRtM2d3eGo4MTZnM3h1djlvOHk5M3BrNTI3bXFlNGprOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy-downsized.gif" alt="TheGIFThatMightGetMeFired">
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=euisungkang&repo=.config&theme=transparent)](https://github.com/euisungkang/.config)
 </div>
