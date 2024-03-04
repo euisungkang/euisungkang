@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/Resume-255E63?style=for-the-badge&logo=ReadMe&logoColor=white" alt="Resume">
   </a>
   
-  <h4> SPACE.P : Chief Technology Officer [PRESENT] </h4>
+  <h4> SPACE.P : Lead Developer / CTO [PRESENT] </h4>
   <div>
     <h6>Backend:</h6>
     <div>
