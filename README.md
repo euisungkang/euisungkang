@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/easton/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://drive.google.com/file/d/1dEX_7TjK17UM330t2b4NHPelFT-M-8Zc/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1oe3dok8m8nM0lMAZyEFL5Q6OM6-NZdQU/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-255E63?style=for-the-badge&logo=ReadMe&logoColor=white" alt="Resume">
   </a>
   <a href="https://discordapp.com/users/237018129664966656">
@@ -34,11 +34,11 @@
 
 <div align="center">
   <h3> Work Experience </h3>
-  <a href="https://drive.google.com/file/d/1dEX_7TjK17UM330t2b4NHPelFT-M-8Zc/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1oe3dok8m8nM0lMAZyEFL5Q6OM6-NZdQU/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-255E63?style=for-the-badge&logo=ReadMe&logoColor=white" alt="Resume">
   </a>
   
-  <h4> SPACE.P : Lead Developer / CTO [PRESENT] </h4>
+  <h3> SPACE.P : Lead Developer / CTO [PRESENT] </h3>
   <div>
     <h6>Backend:</h6>
     <div>
@@ -61,14 +61,14 @@
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" alt="Selenium">
   </div>
   
-  <h4> AccessSIGCHI : Software Engineer Intern [2020] </h4>
+  <h3> AccessSIGCHI : Software Engineer Intern </h3>
   <div>
     <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
     <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails">
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   </div>
   
-  <h4> BlockLab Rotterdam : Backend Developer Intern [2019] </h4>
+  <h3> BlockLab Rotterdam : Backend Developer Intern </h3>
   <div>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript">
     <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
