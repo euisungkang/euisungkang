@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/Resume-255E63?style=for-the-badge&logo=ReadMe&logoColor=white" alt="Resume">
   </a>
 
-  <h3>Airballoon: Fullstack Engineer [PRESENT]</h3>
+  <h3>Airballoon : Fullstack Engineer [PRESENT]</h3>
   <div>
     <h6>Backend:</h6>
     <div>
