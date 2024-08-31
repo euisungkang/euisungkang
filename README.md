@@ -37,8 +37,27 @@
   <a href="https://drive.google.com/file/d/1oe3dok8m8nM0lMAZyEFL5Q6OM6-NZdQU/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-255E63?style=for-the-badge&logo=ReadMe&logoColor=white" alt="Resume">
   </a>
-  
-  <h3> SPACE.P : Lead Developer / CTO [PRESENT] </h3>
+
+  <h3>Airballoon: Fullstack Engineer [PRESENT]</h3>
+  <div>
+    <h6>Backend:</h6>
+    <div>
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js">
+<!--       <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis"> -->
+      <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+    </div>
+  </div>
+  <div>
+    <h6>Frontend:</h6>
+    <div>
+      <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+      <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+    </div>
+  </div>
+  <h3> SPACE.P : Lead Developer / CTO </h3>
   <div>
     <h6>Backend:</h6>
     <div>
