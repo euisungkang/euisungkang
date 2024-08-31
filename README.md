@@ -57,7 +57,7 @@
       <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
     </div>
   </div>
-  <h3> SPACE.P : Lead Developer / CTO </h3>
+  <h3> SPACE.P : Fullstack Lead Developer / CTO </h3>
   <div>
     <h6>Backend:</h6>
     <div>
