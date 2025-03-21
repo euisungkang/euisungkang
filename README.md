@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/easton/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://drive.google.com/file/d/1jGDBdYOGqyY_lxnqbNoKS1NShq-pQhto/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1_p1msnBJoF7HSV66NNek-XJ5v_cKfY_2/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-255E63?style=for-the-badge&logo=ReadMe&logoColor=white" alt="Resume">
   </a>
   <a href="https://discordapp.com/users/237018129664966656">
@@ -34,7 +34,7 @@
 
 <div align="center">
   <h3> Work Experience </h3>
-  <a href="https://drive.google.com/file/d/1jGDBdYOGqyY_lxnqbNoKS1NShq-pQhto/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1_p1msnBJoF7HSV66NNek-XJ5v_cKfY_2/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-255E63?style=for-the-badge&logo=ReadMe&logoColor=white" alt="Resume">
   </a>
 
