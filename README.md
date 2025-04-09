@@ -20,14 +20,14 @@
 <div align="center">
   <h3> About Me </h3>
   
-  I have robust fundamentals in back-end development, notably in:
+  Robust fundamentals in back-end development, notably in:
   <h4>
     1. Java Spring | Node.js server-side development<br>
     2. Database architecture and migrations in production<br>
     3. Scalable API design and implementation<br>
   </h4>
      
-  However, my experience and tech stack is also very much full-stack,<br>with personal projects to showcase my competence.
+  However, my experience and tech stack is very much full-stack,<br>with personal projects to showcase my competence.
 </div>
 
 ------
