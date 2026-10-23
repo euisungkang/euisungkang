@@ -25,7 +25,7 @@
 
   I build fullstack systems. Recently, MCPs and AI swarms.
   
-  I still frequently write by hand for the love of the game
+  I frequently write by hand for the love of the game
 
   I read my code 😯
 
