@@ -19,7 +19,14 @@
 
 <div align="center">
   <h3> About Me </h3>
-  I build fullstack systems. AI is a great tool, and I still read code. Sometimes, I code by hand for the love of the game.
+  
+  Fullstack Engineer
+  
+  I use AI, it's a great tool
+  
+  I read my code
+  
+  I still frequently write by hand for the love of the game
 </div>
 
 ------
