@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="./intro.gif" width="25%" alt="Intro GIF">
+  <!-- <img src="./intro.gif" width="25%" alt="Intro GIF"> -->
 
-  ### I'm Easton 👋
+  ### I'm Easton
   #### Software Engineer
   
   <a href="https://eastonkang.com">
@@ -46,7 +46,7 @@
       <th colspan="2">Stack</th>
     </tr>
     <tr>
-      <td rowspan="3"><b>Alcamo</b><br><sub>Software Engineer</sub></td>
+      <td rowspan="3"><b>Alcamo Marketing</b><br><sub>Software Engineer</sub></td>
       <td><sub>Backend</sub></td>
       <td>
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
