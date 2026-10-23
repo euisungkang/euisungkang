@@ -43,6 +43,31 @@
       <th colspan="2">Stack</th>
     </tr>
     <tr>
+      <td rowspan="3"><b>Alcamo</b><br><sub>Software Engineer</sub></td>
+      <td><sub>Backend</sub></td>
+      <td>
+          <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+          <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake">
+          <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud">
+      </td>
+    </tr>
+    <tr>
+      <td><sub>AI</sub></td>
+      <td>
+          <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic">
+          <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP">
+          <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
+      </td>
+    </tr>
+    <tr>
+      <td><sub>Frontend</sub></td>
+      <td>
+          <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white" alt="SvelteKit">
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
+          <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+      </td>
+    </tr>
+    <tr>
       <td rowspan="2"><b>Airballoon</b><br><sub>Fullstack Engineer</sub></td>
       <td><sub>Backend</sub></td>
       <td>
