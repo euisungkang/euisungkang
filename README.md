@@ -2,7 +2,7 @@
   <img src="./intro.gif" width="25%" alt="Intro GIF">
 
   ### Hey, I'm Easton 👋
-  #### Passionate software developer, and community manager.
+  #### Software Engineer
   
   <a href="https://www.linkedin.com/in/easton/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -19,15 +19,7 @@
 
 <div align="center">
   <h3> About Me </h3>
-  
-  Robust fundamentals in back-end development, notably in:
-  <h4>
-    1. Java Spring | Node.js server-side development<br>
-    2. Database architecture and migrations in production<br>
-    3. Scalable API design and implementation<br>
-  </h4>
-     
-  However, my experience and tech stack is very much full-stack,<br>with personal projects to showcase my competence.
+  I build fullstack systems. AI is a great tool, and I still read code. Sometimes, I code by hand for the love of the game.
 </div>
 
 ------
