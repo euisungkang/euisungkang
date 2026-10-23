@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./intro.gif" width="25%" alt="Intro GIF">
 
-  ### Hey, I'm Easton 👋
+  ### I'm Easton 👋
   #### Software Engineer
   
   <a href="https://www.linkedin.com/in/easton/">
@@ -33,75 +33,81 @@
 
 <div align="center">
   <h3> Work Experience </h3>
-  <a href="https://drive.google.com/file/d/1_p1msnBJoF7HSV66NNek-XJ5v_cKfY_2/view?usp=sharing">
+  <!-- <a href="https://drive.google.com/file/d/1_p1msnBJoF7HSV66NNek-XJ5v_cKfY_2/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-255E63?style=for-the-badge&logo=ReadMe&logoColor=white" alt="Resume">
-  </a>
+  </a> -->
 
-  <h3>Airballoon : Fullstack Engineer</h3>
-  <div>
-    <h6>Backend:</h6>
-    <div>
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
-      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-      <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js">
-<!--       <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis"> -->
-      <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
-    </div>
-  </div>
-  <div>
-    <h6>Frontend:</h6>
-    <div>
-      <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-      <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-    </div>
-  </div>
-  <h3> SPACE.P : Fullstack Lead Developer / CTO </h3>
-  <div>
-    <h6>Backend:</h6>
-    <div>
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
-      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-      <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-      <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
-    </div>
-  </div>
-  <div>
-    <h6>Frontend:</h6>
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  </div>
-  <div>
-    <h6>Internal:</h6>
-    <div>
-      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django">
-      <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" alt="Selenium">
-    </div>
-    <div>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
-      <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white" alt="SvelteKit">
-    </div>
-  </div>
-  
-  <h3> AccessSIGCHI : Software Engineer Intern </h3>
-  <div>
-    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
-    <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails">
-    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  </div>
-  
-  <h3> BlockLab Rotterdam : Backend Developer Intern </h3>
-  <div>
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript">
-    <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-  </div>
-  <div>
-    <img src="https://img.shields.io/badge/IPFS-17314a?style=for-the-badge&logo=IPFS&logoColor=white" alt="IPFS">
-    <img src="https://img.shields.io/badge/Blockchain-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge" alt="Blockchain">
-  </div>
+  <table>
+    <tr>
+      <th>Experience</th>
+      <th colspan="2">Stack</th>
+    </tr>
+    <tr>
+      <td rowspan="2"><b>Airballoon</b><br><sub>Fullstack Engineer</sub></td>
+      <td><sub>Backend</sub></td>
+      <td>
+          <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+          <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+          <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js">
+          <!-- <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis"> -->
+          <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+      </td>
+    </tr>
+    <tr>
+      <td><sub>Frontend</sub></td>
+      <td>
+          <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+          <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+          <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="3"><b>SPACE.P</b><br><sub>Fullstack Lead Developer / CTO</sub></td>
+      <td><sub>Backend</sub></td>
+      <td>
+          <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+          <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+          <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+          <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+      </td>
+    </tr>
+    <tr>
+      <td><sub>Frontend</sub></td>
+      <td>
+          <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+          <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+      </td>
+    </tr>
+    <tr>
+      <td><sub>Internal</sub></td>
+      <td>
+          <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
+          <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django">
+          <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" alt="Selenium">
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
+          <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white" alt="SvelteKit">
+      </td>
+    </tr>
+    <tr>
+      <td><b>AccessSIGCHI</b><br><sub>Software Engineer Intern</sub></td>
+      <td colspan="2">
+          <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
+          <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails">
+          <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+      </td>
+    </tr>
+    <tr>
+      <td><b>BlockLab Rotterdam</b><br><sub>Backend Developer Intern</sub></td>
+      <td colspan="2">
+          <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript">
+          <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+          <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+          <img src="https://img.shields.io/badge/IPFS-17314a?style=for-the-badge&logo=IPFS&logoColor=white" alt="IPFS">
+          <img src="https://img.shields.io/badge/Blockchain-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge" alt="Blockchain">
+      </td>
+    </tr>
+  </table>
 </div>
 
 ------
