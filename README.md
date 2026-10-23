@@ -1,9 +1,9 @@
 <div align="center">
   <!-- <img src="./intro.gif" width="25%" alt="Intro GIF"> -->
 
-  ### I'm Easton
+  ### I'm Easton 
   #### Software Engineer
-  
+  <br/>
   <a href="https://eastonkang.com">
     <img src="https://img.shields.io/badge/Portfolio-3D3D3D?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4IiBzdHJva2Utd2lkdGg9IjIwIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBmaWxsPSIjMTIxMjEyIiBzdHJva2U9IiMxMjEyMTIiIGQ9Ik0xMCAxMEg5NS44NkwxMCA5NS44NloiLz48cGF0aCBmaWxsPSIjRTZFNkU2IiBzdHJva2U9IiNFNkU2RTYiIGQ9Ik0xMTggMTE4VjMyLjE0TDMyLjE0IDExOFoiLz48L3N2Zz4K" alt="Portfolio">
   </a>
@@ -22,12 +22,12 @@
 
 <div align="center">
   <h3> About Me </h3>
-  
-  Fullstack Engineer
-  
-  I read my code
+
+  I build fullstack systems. Recently, MCPs and AI swarms.
   
   I still frequently write by hand for the love of the game
+
+  I read my code 😯
 
   I use AI, it's a good tool
 </div>
