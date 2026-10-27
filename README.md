@@ -1,7 +1,7 @@
 <div align="center">
   <!-- <img src="./intro.gif" width="25%" alt="Intro GIF"> -->
 
-  ### I'm Easton 
+  ### Easton 
   #### Software Engineer
   <br/>
   <a href="https://eastonkang.com">
