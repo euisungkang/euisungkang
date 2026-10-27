@@ -29,7 +29,7 @@
 
   I read my code 😯
 
-  I use AI, it's a good tool
+  I use AI sometimes, it's a good tool
 </div>
 
 ------
