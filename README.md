@@ -27,7 +27,7 @@
   
   I frequently write by hand for the love of the game
 
-  I read my code 😯
+  I read the code 😯
 
   I use AI sometimes, it's a good tool
 </div>
